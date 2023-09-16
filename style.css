@@ -93,7 +93,7 @@ section{
     font-size: 22px;
     font-weight: 600;
     margin-bottom: 15px;
-    word-spacing: 4px;
+    word-spacing: 1px;
 }
 
 .hero-text h1{
@@ -103,14 +103,14 @@ section{
     font-weight: 500;
     font-style: italic;
     margin-bottom: 20px;
-    letter-spacing: 2px;
+    letter-spacing: 0.8px;
 }
 
 .hero-text h4{
     color: var(--second-color);
     font-size: 20px;
     font-weight: 600;
-    word-spacing: 3px;
+    word-spacing: 1px;
     margin-bottom: 3.5rem;
 }
 
